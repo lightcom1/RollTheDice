@@ -26,7 +26,7 @@ function roll() {
 		for (let i = 0; i < 6; i++) {
 			if(dieOneValue === i && dieTwoValue === i) {
 				text.style.fontSize = '18px';
-				text.textContent = 'Опа, тут выпало что ты еблан, не повезло :(';
+				text.textContent = 'Sheeeeeeeeesh';
 				check = false;
 			}
 		}
